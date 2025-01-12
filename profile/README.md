@@ -8,4 +8,4 @@ Here you'll be able to find the source code for:
 
 ## Contributions
 
-Contributions are welcome for repos generally, [Administer core repo's contributing section](https://github.com/administer-org/administer?tab=readme-ov-file#contributions) is generally true for everything.
+Contributions are welcome for our projects, just make sure to read our [Code of Conduct](/CODE_OF_CONDUCT.md) and [Contributing](/CONTRIBUTING.md) guides.
