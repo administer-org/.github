@@ -1,11 +1,58 @@
-# Welcome to the Administer organization
+<div align="center">
+<img src="https://github.com/administer-org/.github/blob/main/profile/adm.png?raw=true" width="128">
 
-Here you'll be able to find the source code for:
+# Administer
 
-- Administer's backend and frontend
-- All apps
-- Other libraries made by the Administer team
+[![issues - issues](https://img.shields.io/github/issues/administer-org/issues)](https://github.com/administer-org/issues/issues) ![Discord](https://img.shields.io/discord/945819199798923314) ![GitHub License](https://img.shields.io/github/license/administer-org/.github) ![Downloads Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fadminister.notpyx.me%2Fdownload-count)
 
-## Contributions
+[![administer-org - issues](https://img.shields.io/static/v1?label=administer-org&message=issues&color=critical&logo=github)](https://github.com/administer-org/issues "Go to GitHub repo") [![administer-org - administer](https://img.shields.io/static/v1?label=administer-org&message=administer&color=blue&logo=github)](https://github.com/administer-org/administer "Go to GitHub repo") [![administer-org - ui-components](https://img.shields.io/static/v1?label=administer-org&message=ui-components&color=yellow&logo=github)](https://github.com/administer-org/ui-components "Go to GitHub repo") [![administer-org - apps](https://img.shields.io/static/v1?label=administer-org&message=apps&color=ff69b4&logo=github)](https://github.com/administer-org/apps "Go to GitHub repo")
 
-Contributions are welcome for our projects, just make sure to read our [Code of Conduct](/CODE_OF_CONDUCT.md) and [Contributing](/CONTRIBUTING.md) guides.
+</div>
+
+## Welcome to the Administer organization!
+
+This is where we put all of our projects and generally everything else which is being released to the public. Below you'll find all of our repositories what they do.
+
+### Core (administer-org/administer)
+
+![GitHub top language](https://img.shields.io/github/languages/top/administer-org/administer) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
+
+The core Administer frontend and backend.
+
+<img src="https://contrib.rocks/image?repo=administer-org/administer" />
+
+---
+
+### Application Server (administer-org/app-server)
+
+![GitHub top language](https://img.shields.io/github/languages/top/administer-org/app-server) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
+
+A decentralized solution for distributing and serving Apps through Administer's marketplace.
+
+<img src="https://contrib.rocks/image?repo=administer-org/app-server" />
+
+---
+
+### Apps (administer-org/apps)
+
+![GitHub top language](https://img.shields.io/github/languages/top/administer-org/apps) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
+
+All of Administer's free apps and the steps to distribute your own.
+
+<img src="https://contrib.rocks/image?repo=administer-org/apps" />
+
+---
+
+### UI (administer-org/ui-components)
+
+![GitHub top language](https://img.shields.io/github/languages/top/administer-org/ui-components) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
+
+All of Administer's frontend UI, built with lumin-org/ui.
+
+<img src="https://contrib.rocks/image?repo=administer-org/ui-components" />
+
+
+
+## Contributing to any repository
+
+Contributions are welcome for any project, just make sure to read our [Code of Conduct](/CODE_OF_CONDUCT.md) and [Contributing](/CONTRIBUTING.md) guides.
