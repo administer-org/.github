@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/administer-org/.github/blob/main/profile/adm.png?raw=true" width="128">
+<img src="https://github.com/administer-org/administer/blob/main/.readme/Administer-Text.png?raw=true" width="128">
 
 # Administer
 
@@ -11,7 +11,7 @@
 
 ## Welcome to the Administer organization!
 
-This is where we put all of our projects and generally everything else which is being released to the public. Below you'll find all of our repositories what they do.
+Administer is a next-generation FOSS Roblox admin panel. This organization is where we put all of our projects and generally everything else.
 
 ### Core (administer-org/administer)
 
@@ -27,7 +27,7 @@ The core Administer frontend and backend.
 
 ![GitHub top language](https://img.shields.io/github/languages/top/administer-org/app-server) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
 
-A decentralized solution for distributing and serving Apps through Administer's marketplace.
+A Python-based decentralized server for distributing Apps through Administer's marketplace.
 
 <img src="https://contrib.rocks/image?repo=administer-org/app-server" />
 
@@ -40,17 +40,6 @@ A decentralized solution for distributing and serving Apps through Administer's 
 All of Administer's free apps and the steps to distribute your own.
 
 <img src="https://contrib.rocks/image?repo=administer-org/apps" />
-
----
-
-### UI (administer-org/ui-components)
-
-![GitHub top language](https://img.shields.io/github/languages/top/administer-org/ui-components) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
-
-All of Administer's frontend UI, built with lumin-org/ui.
-
-<img src="https://contrib.rocks/image?repo=administer-org/ui-components" />
-
 
 
 ## Contributing to any repository
