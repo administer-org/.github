@@ -31,6 +31,14 @@ A Python-based decentralized server for distributing Apps through Administer's m
 
 <img src="https://contrib.rocks/image?repo=administer-org/aos" />
 
+### Docs [(administer-org/documentation)](https://github.com/administer-org/documentation)
+
+![GitHub top language](https://img.shields.io/github/languages/top/administer-org/documentation) ![GitHub License](https://img.shields.io/github/license/administer-org/.github)
+
+Documentation for Administer Core, AOS, and apps
+
+<img src="https://contrib.rocks/image?repo=administer-org/documentation" />
+
 ---
 
 ### Apps (administer-org/apps)
